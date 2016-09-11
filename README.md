@@ -3,7 +3,6 @@ This project is a simple visualization of median rent in California, USA using C
 
 I decided on creating this map to sharpen my skills with mapping using ggplot and shapefiles, both important tools in creating smart maps.
 
-![alt text](MedianRentCalifornia.PNG "California Median Rent")
 
 <p align="center">
   <img src=MedianRentCalifornia.PNG "California Median Rent"/>
